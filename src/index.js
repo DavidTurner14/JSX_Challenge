@@ -1,6 +1,6 @@
 //Create a react app from scratch.
-var React = require("react");
-var ReactDOM = require("react-dom");
+import React from "react";
+import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
